@@ -1,0 +1,201 @@
+product_id,product_name,category,price,cost,brand
+PROD0001,Sports_Product_1,Sports,8065.08,5115.62,BrandC
+PROD0002,Toys_Product_2,Toys,2636.98,1344.86,BrandD
+PROD0003,Toys_Product_3,Toys,764.04,529.76,BrandA
+PROD0004,Fashion_Product_4,Fashion,4184.08,2218.93,BrandD
+PROD0005,Electronics_Product_5,Electronics,71904.64,32007.24,BrandD
+PROD0006,Groceries_Product_6,Groceries,631.27,340.75,BrandB
+PROD0007,Toys_Product_7,Toys,243.26,146.86,BrandB
+PROD0008,Sports_Product_8,Sports,11232.08,7297.12,BrandA
+PROD0009,Fashion_Product_9,Fashion,2675.67,1438.52,BrandD
+PROD0010,Beauty_Product_10,Beauty,1513.48,874.92,BrandD
+PROD0011,Groceries_Product_11,Groceries,520.04,249.72,BrandC
+PROD0012,Toys_Product_12,Toys,827.7,491.47,BrandD
+PROD0013,Groceries_Product_13,Groceries,762.86,530.79,BrandB
+PROD0014,Groceries_Product_14,Groceries,353.6,146.64,BrandD
+PROD0015,Books_Product_15,Books,562.58,374.66,BrandB
+PROD0016,Groceries_Product_16,Groceries,313.25,178.14,BrandC
+PROD0017,Beauty_Product_17,Beauty,1618.91,770.0,BrandA
+PROD0018,Home_Product_18,Home & Kitchen,8481.74,5822.43,BrandB
+PROD0019,Groceries_Product_19,Groceries,408.71,222.75,BrandA
+PROD0020,Toys_Product_20,Toys,3304.81,1650.78,BrandA
+PROD0021,Fashion_Product_21,Fashion,669.58,304.29,BrandA
+PROD0022,Beauty_Product_22,Beauty,1443.17,683.1,BrandA
+PROD0023,Sports_Product_23,Sports,7004.08,4551.63,BrandB
+PROD0024,Sports_Product_24,Sports,1328.92,776.52,BrandC
+PROD0025,Toys_Product_25,Toys,2093.63,1411.05,BrandD
+PROD0026,Electronics_Product_26,Electronics,28704.61,13479.41,BrandB
+PROD0027,Books_Product_27,Books,1472.92,642.7,BrandC
+PROD0028,Toys_Product_28,Toys,3031.65,1218.2,BrandD
+PROD0029,Fashion_Product_29,Fashion,382.53,211.29,BrandA
+PROD0030,Beauty_Product_30,Beauty,1329.03,929.65,BrandD
+PROD0031,Books_Product_31,Books,149.2,90.79,BrandD
+PROD0032,Electronics_Product_32,Electronics,46182.41,22745.69,BrandC
+PROD0033,Toys_Product_33,Toys,3338.28,2213.47,BrandD
+PROD0034,Home_Product_34,Home & Kitchen,11980.65,7601.92,BrandA
+PROD0035,Books_Product_35,Books,1448.4,586.06,BrandB
+PROD0036,Electronics_Product_36,Electronics,52815.36,34068.98,BrandB
+PROD0037,Toys_Product_37,Toys,3582.31,1755.9,BrandC
+PROD0038,Groceries_Product_38,Groceries,583.22,259.48,BrandA
+PROD0039,Toys_Product_39,Toys,2687.12,1257.3,BrandA
+PROD0040,Fashion_Product_40,Fashion,2443.63,1320.96,BrandD
+PROD0041,Toys_Product_41,Toys,1494.59,788.34,BrandC
+PROD0042,Home_Product_42,Home & Kitchen,12466.83,6067.18,BrandA
+PROD0043,Toys_Product_43,Toys,3302.85,1491.78,BrandA
+PROD0044,Sports_Product_44,Sports,10178.36,6398.82,BrandA
+PROD0045,Electronics_Product_45,Electronics,29897.95,20839.86,BrandB
+PROD0046,Groceries_Product_46,Groceries,778.05,492.77,BrandB
+PROD0047,Sports_Product_47,Sports,7319.03,3577.4,BrandB
+PROD0048,Toys_Product_48,Toys,2923.02,1383.88,BrandD
+PROD0049,Home_Product_49,Home & Kitchen,5767.13,2683.44,BrandD
+PROD0050,Electronics_Product_50,Electronics,38939.93,17172.84,BrandD
+PROD0051,Electronics_Product_51,Electronics,12307.78,6958.81,BrandA
+PROD0052,Toys_Product_52,Toys,2703.52,1572.42,BrandB
+PROD0053,Home_Product_53,Home & Kitchen,530.86,324.7,BrandA
+PROD0054,Fashion_Product_54,Fashion,1968.51,1189.11,BrandA
+PROD0055,Groceries_Product_55,Groceries,650.98,317.48,BrandC
+PROD0056,Electronics_Product_56,Electronics,64993.45,32437.8,BrandA
+PROD0057,Groceries_Product_57,Groceries,569.31,344.12,BrandD
+PROD0058,Home_Product_58,Home & Kitchen,5920.78,2989.01,BrandB
+PROD0059,Books_Product_59,Books,247.96,115.0,BrandB
+PROD0060,Sports_Product_60,Sports,10793.36,5529.45,BrandA
+PROD0061,Electronics_Product_61,Electronics,41931.66,20195.35,BrandD
+PROD0062,Books_Product_62,Books,1250.4,533.29,BrandD
+PROD0063,Electronics_Product_63,Electronics,60688.32,39389.25,BrandD
+PROD0064,Fashion_Product_64,Fashion,2222.7,1457.94,BrandB
+PROD0065,Toys_Product_65,Toys,1165.55,543.06,BrandD
+PROD0066,Home_Product_66,Home & Kitchen,3340.06,1400.93,BrandD
+PROD0067,Electronics_Product_67,Electronics,14055.94,8737.85,BrandA
+PROD0068,Home_Product_68,Home & Kitchen,12856.67,5958.53,BrandC
+PROD0069,Beauty_Product_69,Beauty,802.87,415.91,BrandD
+PROD0070,Electronics_Product_70,Electronics,66841.56,28022.69,BrandA
+PROD0071,Fashion_Product_71,Fashion,1194.91,559.08,BrandA
+PROD0072,Fashion_Product_72,Fashion,1887.63,1204.06,BrandD
+PROD0073,Toys_Product_73,Toys,3076.92,1973.29,BrandC
+PROD0074,Toys_Product_74,Toys,375.75,173.64,BrandB
+PROD0075,Books_Product_75,Books,986.17,493.85,BrandC
+PROD0076,Fashion_Product_76,Fashion,3458.74,1522.78,BrandD
+PROD0077,Home_Product_77,Home & Kitchen,2285.8,965.18,BrandC
+PROD0078,Beauty_Product_78,Beauty,2696.8,1881.43,BrandA
+PROD0079,Groceries_Product_79,Groceries,483.52,288.51,BrandA
+PROD0080,Fashion_Product_80,Fashion,3069.38,1726.92,BrandC
+PROD0081,Electronics_Product_81,Electronics,42814.82,26958.33,BrandB
+PROD0082,Groceries_Product_82,Groceries,964.66,628.98,BrandC
+PROD0083,Groceries_Product_83,Groceries,53.12,34.1,BrandD
+PROD0084,Fashion_Product_84,Fashion,3759.94,1522.63,BrandB
+PROD0085,Beauty_Product_85,Beauty,1748.59,797.43,BrandC
+PROD0086,Home_Product_86,Home & Kitchen,6775.18,4041.2,BrandC
+PROD0087,Electronics_Product_87,Electronics,48884.05,25064.21,BrandB
+PROD0088,Books_Product_88,Books,1394.04,968.5,BrandC
+PROD0089,Books_Product_89,Books,1193.3,715.53,BrandD
+PROD0090,Books_Product_90,Books,1374.16,944.0,BrandA
+PROD0091,Toys_Product_91,Toys,2828.6,1302.38,BrandD
+PROD0092,Electronics_Product_92,Electronics,18023.77,11881.04,BrandC
+PROD0093,Groceries_Product_93,Groceries,823.48,408.78,BrandA
+PROD0094,Books_Product_94,Books,244.08,170.09,BrandB
+PROD0095,Toys_Product_95,Toys,2698.24,1206.94,BrandD
+PROD0096,Fashion_Product_96,Fashion,3148.56,1747.14,BrandB
+PROD0097,Groceries_Product_97,Groceries,354.75,226.28,BrandA
+PROD0098,Electronics_Product_98,Electronics,71104.29,37670.54,BrandC
+PROD0099,Electronics_Product_99,Electronics,36399.86,19671.4,BrandA
+PROD0100,Electronics_Product_100,Electronics,50674.53,35264.75,BrandA
+PROD0101,Sports_Product_101,Sports,8402.12,4432.9,BrandB
+PROD0102,Toys_Product_102,Toys,1142.56,664.08,BrandD
+PROD0103,Groceries_Product_103,Groceries,426.98,177.78,BrandA
+PROD0104,Home_Product_104,Home & Kitchen,5470.8,3570.59,BrandC
+PROD0105,Sports_Product_105,Sports,3741.12,2223.91,BrandA
+PROD0106,Sports_Product_106,Sports,9715.93,5064.0,BrandB
+PROD0107,Sports_Product_107,Sports,1915.84,775.63,BrandD
+PROD0108,Home_Product_108,Home & Kitchen,9236.21,5333.92,BrandC
+PROD0109,Sports_Product_109,Sports,10671.2,4309.0,BrandB
+PROD0110,Books_Product_110,Books,816.72,326.98,BrandA
+PROD0111,Electronics_Product_111,Electronics,68230.58,39903.26,BrandA
+PROD0112,Groceries_Product_112,Groceries,569.42,260.06,BrandD
+PROD0113,Groceries_Product_113,Groceries,347.22,158.88,BrandB
+PROD0114,Electronics_Product_114,Electronics,60261.4,35914.68,BrandB
+PROD0115,Toys_Product_115,Toys,2303.16,958.37,BrandD
+PROD0116,Fashion_Product_116,Fashion,1320.73,652.47,BrandC
+PROD0117,Beauty_Product_117,Beauty,786.41,349.82,BrandB
+PROD0118,Books_Product_118,Books,1099.85,631.37,BrandD
+PROD0119,Home_Product_119,Home & Kitchen,10455.55,6257.96,BrandB
+PROD0120,Beauty_Product_120,Beauty,2779.26,1712.97,BrandD
+PROD0121,Electronics_Product_121,Electronics,14950.38,7124.89,BrandA
+PROD0122,Sports_Product_122,Sports,8611.35,3675.11,BrandA
+PROD0123,Groceries_Product_123,Groceries,975.42,413.19,BrandB
+PROD0124,Toys_Product_124,Toys,874.87,461.8,BrandB
+PROD0125,Toys_Product_125,Toys,2261.01,1545.97,BrandA
+PROD0126,Fashion_Product_126,Fashion,3292.96,1532.28,BrandC
+PROD0127,Fashion_Product_127,Fashion,3638.37,1735.58,BrandD
+PROD0128,Electronics_Product_128,Electronics,62058.13,26701.54,BrandC
+PROD0129,Books_Product_129,Books,886.75,515.8,BrandC
+PROD0130,Toys_Product_130,Toys,2414.25,1458.11,BrandC
+PROD0131,Beauty_Product_131,Beauty,2839.43,1683.44,BrandA
+PROD0132,Fashion_Product_132,Fashion,3637.29,2394.57,BrandB
+PROD0133,Groceries_Product_133,Groceries,689.53,376.43,BrandC
+PROD0134,Groceries_Product_134,Groceries,898.17,395.5,BrandA
+PROD0135,Electronics_Product_135,Electronics,45042.71,21927.76,BrandD
+PROD0136,Books_Product_136,Books,1328.35,795.32,BrandB
+PROD0137,Electronics_Product_137,Electronics,36678.98,21418.2,BrandD
+PROD0138,Electronics_Product_138,Electronics,5957.79,3332.2,BrandC
+PROD0139,Books_Product_139,Books,248.17,150.12,BrandB
+PROD0140,Books_Product_140,Books,632.6,374.0,BrandC
+PROD0141,Books_Product_141,Books,173.34,115.17,BrandB
+PROD0142,Groceries_Product_142,Groceries,102.77,59.18,BrandC
+PROD0143,Groceries_Product_143,Groceries,302.63,191.74,BrandD
+PROD0144,Electronics_Product_144,Electronics,63914.91,30334.79,BrandD
+PROD0145,Fashion_Product_145,Fashion,4922.59,2970.56,BrandC
+PROD0146,Home_Product_146,Home & Kitchen,10408.84,6980.77,BrandB
+PROD0147,Home_Product_147,Home & Kitchen,2622.36,1352.4,BrandD
+PROD0148,Electronics_Product_148,Electronics,9652.46,6117.07,BrandB
+PROD0149,Electronics_Product_149,Electronics,63826.81,39409.02,BrandB
+PROD0150,Fashion_Product_150,Fashion,1258.01,525.67,BrandD
+PROD0151,Books_Product_151,Books,857.18,492.41,BrandA
+PROD0152,Electronics_Product_152,Electronics,31901.18,14006.43,BrandA
+PROD0153,Toys_Product_153,Toys,1919.31,1324.7,BrandB
+PROD0154,Groceries_Product_154,Groceries,634.3,408.12,BrandD
+PROD0155,Sports_Product_155,Sports,8203.33,3551.36,BrandA
+PROD0156,Books_Product_156,Books,886.2,386.85,BrandC
+PROD0157,Toys_Product_157,Toys,1051.59,608.18,BrandB
+PROD0158,Groceries_Product_158,Groceries,663.76,334.18,BrandA
+PROD0159,Electronics_Product_159,Electronics,34166.5,14024.38,BrandD
+PROD0160,Sports_Product_160,Sports,6277.3,3530.93,BrandD
+PROD0161,Toys_Product_161,Toys,3227.76,1666.67,BrandB
+PROD0162,Beauty_Product_162,Beauty,2148.86,924.7,BrandD
+PROD0163,Fashion_Product_163,Fashion,3556.49,2278.2,BrandC
+PROD0164,Groceries_Product_164,Groceries,93.63,63.16,BrandC
+PROD0165,Sports_Product_165,Sports,4763.9,2986.86,BrandA
+PROD0166,Electronics_Product_166,Electronics,36242.47,23438.97,BrandD
+PROD0167,Home_Product_167,Home & Kitchen,11927.41,5545.62,BrandC
+PROD0168,Toys_Product_168,Toys,2803.25,1342.96,BrandB
+PROD0169,Electronics_Product_169,Electronics,77437.49,35819.35,BrandD
+PROD0170,Home_Product_170,Home & Kitchen,1279.19,805.27,BrandA
+PROD0171,Fashion_Product_171,Fashion,3794.99,2597.2,BrandB
+PROD0172,Fashion_Product_172,Fashion,1253.71,771.1,BrandB
+PROD0173,Books_Product_173,Books,1316.26,874.58,BrandB
+PROD0174,Toys_Product_174,Toys,3469.55,2052.62,BrandC
+PROD0175,Books_Product_175,Books,719.73,371.6,BrandB
+PROD0176,Home_Product_176,Home & Kitchen,3769.68,1989.37,BrandC
+PROD0177,Home_Product_177,Home & Kitchen,9689.57,4094.78,BrandB
+PROD0178,Fashion_Product_178,Fashion,3634.57,1488.13,BrandC
+PROD0179,Sports_Product_179,Sports,4601.94,2800.94,BrandD
+PROD0180,Home_Product_180,Home & Kitchen,9031.18,4800.33,BrandC
+PROD0181,Home_Product_181,Home & Kitchen,11207.26,6339.55,BrandC
+PROD0182,Toys_Product_182,Toys,945.78,536.54,BrandD
+PROD0183,Sports_Product_183,Sports,8781.22,4243.2,BrandB
+PROD0184,Books_Product_184,Books,370.09,200.87,BrandD
+PROD0185,Books_Product_185,Books,727.79,393.9,BrandB
+PROD0186,Home_Product_186,Home & Kitchen,14760.06,7623.99,BrandC
+PROD0187,Toys_Product_187,Toys,482.06,311.51,BrandB
+PROD0188,Books_Product_188,Books,1447.43,774.88,BrandC
+PROD0189,Books_Product_189,Books,1128.85,655.97,BrandB
+PROD0190,Beauty_Product_190,Beauty,533.31,356.6,BrandC
+PROD0191,Toys_Product_191,Toys,353.45,233.23,BrandC
+PROD0192,Books_Product_192,Books,490.04,326.92,BrandA
+PROD0193,Fashion_Product_193,Fashion,1541.19,741.31,BrandB
+PROD0194,Electronics_Product_194,Electronics,17069.66,7007.01,BrandB
+PROD0195,Home_Product_195,Home & Kitchen,12767.05,6106.74,BrandA
+PROD0196,Groceries_Product_196,Groceries,54.36,26.29,BrandC
+PROD0197,Home_Product_197,Home & Kitchen,7261.27,4885.44,BrandC
+PROD0198,Fashion_Product_198,Fashion,4706.16,2799.1,BrandA
+PROD0199,Groceries_Product_199,Groceries,86.94,36.91,BrandA
+PROD0200,Electronics_Product_200,Electronics,74647.12,32890.53,BrandD
