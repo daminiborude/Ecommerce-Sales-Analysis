@@ -214,12 +214,6 @@ powerBI/Dashboard.pbix
 
 ---
 
-# 📷 Dashboard Preview
-
-(Add screenshots here)
-
----
-
 # 💡 Future Improvements
 
 - Deploy dashboard to Power BI Service
